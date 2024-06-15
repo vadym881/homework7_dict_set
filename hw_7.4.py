@@ -6,5 +6,4 @@ def common_elements():
     return common
 
 assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
-
-print(common_elements())
+print('OK - Task4')
